@@ -1,5 +1,5 @@
 {
-    "version": "0.19.3",
+    "version": "v3.9.5",
     "description": "仿 Linux shell 文件处理命令的百度网盘命令行客户端，基于 iikira/BaiduPCS-Go v3.6.2 开发, 并添加了转存功能",
     "homepage": "https://github.com/qjfoidnh/BaiduPCS-Go/",
     "license": "Apache-2.0",
